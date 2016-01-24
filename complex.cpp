@@ -5,7 +5,7 @@ Complex::Complex()
     realPart = 0;
     imaginaryPart = 0;
 }
-
+赵凯
 Complex::Complex(double real, double imaginary)
     :realPart(0),imaginaryPart(0)
 {
